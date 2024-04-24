@@ -1,0 +1,1 @@
+I am learning git basics with The Odin Project!
